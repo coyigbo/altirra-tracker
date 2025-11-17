@@ -19,7 +19,7 @@ Customers and internal users can use GitHub Issues to report bugs, request featu
 
 - Our team reviews new issues regularly.
 - We may follow up in the comments if we need more information.
-- Status updates (e.g. triaged, in progress, released) will be reflected via labels and comments on the issue.
+- Status updates (in progress or complete) will be reflected via labels and/or comments on the issue.
 
 ### Security & Sensitive Information
 
