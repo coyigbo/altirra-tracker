@@ -11,7 +11,7 @@ assignees: []
 A clear, concise description of the problem.
 
 - **Short title**:
-- **Area of the CRM** (e.g. Contacts, Pipeline, Reporting, Integrations):
+- **Area of the CRM**:
 
 ## Steps to Reproduce
 
